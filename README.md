@@ -4,7 +4,7 @@ The project was aimed at bio-controls for invasive zebra mussels and quagga muss
 
 # The files can be downloaded either by the view raw option or as download.
 
-# Notable highlishts are
+# Notable highlights
 1. Phosphate promoter system
 2. Nitrate promoter system
 3. Small FitD (proven toxicity against quagga mussels, expressed in E.coli)
