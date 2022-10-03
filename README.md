@@ -2,7 +2,7 @@
 A repository that holds all the information for the ZebraZap project, part of iGEM 2022.
 The project was aimed at bio-controls for invasive zebra mussels and quagga mussels.
 
-# The files can be downloaded either by the view raw option or as download.
+The files can be downloaded either by the view raw option or as download.
 
 # Notable highlights
 1. Phosphate promoter system
